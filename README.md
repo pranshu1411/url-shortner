@@ -1,4 +1,4 @@
-## URL Shortener Service with Analytics - v1.0.0
+## URL Shortener Service with Analytics
 
 ### Features
 
